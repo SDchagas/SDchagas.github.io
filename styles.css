@@ -14,3 +14,7 @@ body{
 .container {
     column-count: 2;
   }
+
+  .picture {
+    border-radius: 50%;
+}
